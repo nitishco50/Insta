@@ -1,4 +1,4 @@
-flask
-flask-cors
-yt-dlp
-gunicorn
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+yt-dlp==2024.3.10
+python-multipart==0.0.9
